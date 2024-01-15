@@ -1,12 +1,4 @@
 .env
-.env.example
-README.md
-classFiles/
-package-lock.json
-package.json
-tsconfig.json
-wdio.conf.ts
 node_modules
-allure-results
 debug
 logs
