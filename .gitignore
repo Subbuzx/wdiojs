@@ -4,7 +4,6 @@ README.md
 classFiles/
 package-lock.json
 package.json
-test/
 tsconfig.json
 wdio.conf.ts
 node_modules
